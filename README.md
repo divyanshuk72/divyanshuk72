@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 , My name is Divyanshu and I am a Frontend Developer from Bengaluru, India</h1>
+<h1 align="center">Hey there 👋🏻 ! I’m Divyanshu, a Frontend Developer from Bengaluru, India, crafting sleek and scalable web applications with a focus on clean code and seamless user experiences.</h1>
 
 ###
 
